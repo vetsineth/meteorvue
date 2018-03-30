@@ -1,0 +1,39 @@
+/* CSS declarations go here */
+body{
+  background-color:ivory;
+}
+.el-header {
+    
+    color: #333;
+    line-height: 60px;
+  }
+  
+  .el-aside {
+    color: #333;
+  }
+
+.el-menu-demo{
+  width: 100%;
+  margin: 0 auto;
+}
+
+/*layout home*/
+.el-row {
+  margin-bottom: 20px;
+  
+}
+.el-col {
+  border-radius: 4px;
+}
+.bg-purple-dark {
+  background: #99a9bf;
+}
+
+.bg-purple-light {
+  background: #e5e9f2;
+}
+
+.row-bg {
+  padding: 10px 0;
+  background-color: #f9fafc;
+}
